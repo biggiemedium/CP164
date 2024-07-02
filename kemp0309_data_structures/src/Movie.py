@@ -6,7 +6,7 @@ Author:  David Brown
 ID:      999999999
 Email:   dbrown@wlu.ca
 Section: CP164 B
-__updated__ = "2024-05-16"
+__updated__ = "2024-07-01"
 -------------------------------------------------------
 """
 
@@ -241,6 +241,7 @@ Genres:   {}""".format(self.title, self.year, self.director, self.rating, genres
         Use: h = hash(movie)
         -------------------------------------------------------
         Returns:
+            returns
             value - the total of the characters in the name string
                 multiplied by the year (int > 0)
         -------------------------------------------------------

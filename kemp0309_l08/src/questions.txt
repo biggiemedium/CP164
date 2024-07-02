@@ -1,0 +1,82 @@
+DATA1
+
+           M
+         /   \
+       F       T
+     /   \   /   \
+    C     J P     W
+   / \   / \     / \
+  A   D H   K   U   Y
+     /     / \   \   \
+    B     L   R   V   X
+               \     /
+                I   Q
+                   /
+                  S
+                 /
+                O
+               /
+              G
+             /
+            Z
+               
+DATA2
+
+           M
+         /   \
+       F       T
+     /   \   /   \
+    C     J P     W
+   / \   / \     / \
+  A   D H   K   U   Y
+     /     / \   \   \
+    B     L   R   V   X
+               \     /
+                I   Q
+                   /
+                  S
+                 /
+                O
+               /
+              G
+             /
+            Z
+DATA3
+
+           E
+         /   \
+       A       T
+     /   \   /   \
+    I     R N     O
+   / \   / \     / \
+  S   L D   H   U   W
+     /     / \   \   \
+    C     F   G   Y   J
+         /     \   \   \
+        M       B   V   P
+                     \   \
+                      K   X
+                         /
+                        Z
+                       /
+                      Q
+
+
+
+
+
+----------------------------------------------------------------------------------
+
+Q: Which of these three is the most inefficient tree? Why? 
+
+A: Data1 and Data2 is the least effucicient level due to the fact that they have the most amount of levels causing the program
+    to slow down
+
+Q: Which of these is likely to be the most efficient tree?
+
+A: Data3 is the most effiecent structure due to the fact that it has the least amount of levels, 
+   This means that the program has less processing to do increasing efficiency 
+
+Q: How could you (theoretically) figure that out?
+
+A: Drawing out trees/printing to console will let us visualize efficient routes

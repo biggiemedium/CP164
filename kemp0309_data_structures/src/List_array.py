@@ -5,7 +5,7 @@ Array version of the list ADT.
 Author:  David Brown
 ID:      123456789
 Email:   dbrown@wlu.ca
-__updated__ = "2024-06-06"
+__updated__ = "2024-06-14"
 -------------------------------------------------------
 """
 from copy import deepcopy
@@ -264,7 +264,6 @@ class List:
             number - number of times key appears in list (int)
         -------------------------------------------------------
         """
-        # Your code here
 
         return
 

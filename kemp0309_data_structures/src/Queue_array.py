@@ -6,7 +6,7 @@ Author:  David Brown
 ID:      999999999
 Email:   dbrown@wlu.ca
 Section: CP164 C
-__updated__ = "2024-05-31"
+__updated__ = "2024-06-10"
 -------------------------------------------------------
 """
 from copy import deepcopy
@@ -153,7 +153,7 @@ class Queue:
 
         for i in range(len(self)):
             if self._values[i] != target._values[i]:
-                return False
+                length = False
 
         return length
 
